@@ -1,4 +1,4 @@
 # raios
 # Temos 2 arquivos
-## filtroDadosRaios.ipynb >> arquivo Jupyter Notebook
-## filtroDadosRaios2.py  >> arquivo python
+## filtroDadosRaiosCorreto.ipynb >> arquivo Jupyter Notebook
+## filtroDadosRaiosCorreto.py  >> arquivo python
